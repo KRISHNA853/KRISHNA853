@@ -25,8 +25,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/KRISHNA853/KRISHNA853.git
 ```
 
 ### Step 2: Run the Application
@@ -38,7 +37,7 @@ python3 numpad.py
 ### Alternative: Download Using cURL
 
 ```bash
-curl -L "YOUR_RAW_FILE_URL" -o numpad.py
+curl -L "https://github.com/KRISHNA853/KRISHNA853.git" -o numpad.py
 ```
 
 ### Step 3: Launch the Script

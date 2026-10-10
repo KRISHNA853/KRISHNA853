@@ -31,17 +31,8 @@ git clone https://github.com/KRISHNA853/KRISHNA853.git
 ### Step 2: Run the Application
 
 ```bash
-python3 numpad.py
+cd KRISHNA853
 ```
-
-### Alternative: Download Using cURL
-
-```bash
-curl -L "https://github.com/KRISHNA853/KRISHNA853.git" -o numpad.py
-```
-
-### Step 3: Launch the Script
-
 ```bash
 python3 numpad.py
 ```
